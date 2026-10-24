@@ -20,7 +20,7 @@ A recreation of Spotify's **Now Playing screen** built with SwiftUI. This projec
 
 ## Screenshot
 
-![Spotify UI Screenshot](screenshots/spotify-ui.png)
+![Spotify UI Screenshot](Spotify%20UI/screenshots/spotify-ui.png)
 
 ## What I Learned
 
